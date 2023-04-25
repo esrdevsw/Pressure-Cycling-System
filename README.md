@@ -4,10 +4,11 @@ The instrument was developed from scratch for the study of the degradation of th
 The first prototype used a controller via Arduino.
 The ultimate control is built with an automated LabVIEW interface
 
+Ribeiro, E.D.S., 2016. Método e instrumentação de caracterização de materiais sólidos aplicáveis no armazenamento de hidrogénio (Doctoral dissertation).
+
+URI: http://hdl.handle.net/10316/29604
+
+https://cfisuc.fis.uc.pt/people.php?oid=80873
 
 ![PID 50ºC](https://user-images.githubusercontent.com/21969268/193791484-2cd07840-b4a0-45ad-a473-9c1aa37e0a7e.JPG)
 ![PID 50ºC-grafico](https://user-images.githubusercontent.com/21969268/193791517-fabb9fdd-be13-4207-8ba8-c8b649100052.JPG)
-
-URI: 	http://hdl.handle.net/10316/29604
-
-https://cfisuc.fis.uc.pt/people.php?oid=80873
